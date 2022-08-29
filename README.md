@@ -1,2 +1,2 @@
-# Predict_ds_salary_in_us
+# Predict Data Career Salary
 This project about predict Data career salary
