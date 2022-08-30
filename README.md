@@ -9,6 +9,6 @@ This project begin from my intersted how much Data specialist received salary fr
 <hr>
 
 ## Linear regression model
-1. used one hot encode methd
-2. used split train test
-3. evaluate by rmse metric
+1. UUsed one hot encode methd
+2. Used split train test
+3. Scored by rmse metric
