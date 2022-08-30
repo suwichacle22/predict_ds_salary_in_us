@@ -3,7 +3,8 @@ This project begin from my intersted how much Data specialist received salary fr
 
 <hr>
 ## Dataset from kaggle
-Data Science job salaries(Kaggle)
+
+[Data Science job salaries(Kaggle)](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 <hr>
 
 ## Linear regression model
