@@ -7,8 +7,3 @@ This project begin from my intersted how much Data specialist received salary fr
 
 [Data Science job salaries(Kaggle)](https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries)
 <hr>
-
-## Linear regression model
-1. Used one hot encode methd
-2. Used split train test
-3. Scored by rmse metric
